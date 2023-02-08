@@ -5,7 +5,7 @@ DTrace and DTraceToolkit presentation
 
 This is a Sun Microsystems Finland 2006 presentation. The original message from June 2006:
 
-I've been busy with DTrace and Solaris. In fact I was working in getting ready a DTrace presentation for Opensolaris/DTrace community: a generic workshop about DTrace and DTraceToolkit - a simple introduction on the new dynamic tracing framework and as well a presentation of DTraceToolkit with real case examples.
+I've been busy with DTrace and Solaris. In fact I was working in getting ready a DTrace presentation for Opensolaris/DTrace community: a generic workshop about DTrace and DTraceToolkit (DTT) - a simple introduction on the new dynamic tracing framework and as well a presentation of DTraceToolkit with real case examples.
 
 You can call this the first version, many new things planned to be added here:
 * DTrace/DTT for Database Administrators
